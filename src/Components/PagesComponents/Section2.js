@@ -10,12 +10,12 @@ const Section2 = () => {
         <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900 dark:text-white">Projects</h1>
         <div className="h-1 w-20 bg-indigo-500 rounded" ></div>
       </div>
-      <p className="lg:w-1/2 w-full leading-relaxed text-gray-500">I love to create things, and I'm always working on something new! You can view some of my favorite projects below.</p>
+      <p className="lg:w-1/2 w-full leading-relaxed text-gray-500">I love to create things, and I am always working on something new! You can view some of my favorite projects below.</p>
     </div>
     <div className="flex flex-wrap -m-4" >
       <div className="xl:w-1/4 md:w-1/2 p-4" >
         <div className="bg-gray-100 p-6 rounded-lg" >
-          <img className="h-40 rounded w-full object-cover object-center mb-6" src="\Projects\GetMeAChai\Screenshot (35).png" alt="content"/>
+          <Image className="h-40 rounded w-full object-cover object-center mb-6" src="\Projects\GetMeAChai\Screenshot (35).png" alt="content"/>
           <h3 className="tracking-widest text-indigo-500 text-xs font-medium title-font">SUBTITLE</h3>
           <h2 className="text-lg text-gray-900 font-medium title-font mb-4">Get ME A Chai</h2>
           <p className="leading-relaxed text-base">A Patteron clone so your fans can support you.</p>
@@ -23,7 +23,7 @@ const Section2 = () => {
       </div>
       <div className="xl:w-1/4 md:w-1/2 p-4" >
         <div className="bg-gray-100 p-6 rounded-lg" >
-          <img className="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/721x401" alt="content"/>
+          <Image className="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/721x401" alt="content"/>
           <h3 className="tracking-widest text-indigo-500 text-xs font-medium title-font">SUBTITLE</h3>
           <h2 className="text-lg text-gray-900 font-medium title-font mb-4">Colosseum Roma</h2>
           <p className="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
@@ -31,7 +31,7 @@ const Section2 = () => {
       </div>
       <div className="xl:w-1/4 md:w-1/2 p-4" >
         <div className="bg-gray-100 p-6 rounded-lg" >
-          <img className="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/722x402" alt="content"/>
+          <Image className="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/722x402" alt="content"/>
           <h3 className="tracking-widest text-indigo-500 text-xs font-medium title-font">SUBTITLE</h3>
           <h2 className="text-lg text-gray-900 font-medium title-font mb-4">Great Pyramid of Giza</h2>
           <p className="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
@@ -39,7 +39,7 @@ const Section2 = () => {
       </div>
       <div className="xl:w-1/4 md:w-1/2 p-4" >
         <div className="bg-gray-100 p-6 rounded-lg" >
-          <img className="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/723x403" alt="content"/>
+          <Image className="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/723x403" alt="content"/>
           <h3 className="tracking-widest text-indigo-500 text-xs font-medium title-font">SUBTITLE</h3>
           <h2 className="text-lg text-gray-900 font-medium title-font mb-4">San Francisco</h2>
           <p className="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
