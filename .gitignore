@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#extra code
+src/Components/LayoutComponents/Navbar.js
+src/Components/LayoutComponents/Navbar2.js
+src/Components/LayoutComponents/Navbar3.js
+src/Components/PagesComponents/about_page.js
+src/Components/PagesComponents/home_page_1.js
